@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrintNumberinGivenrange_1
+public class Print_Number_in_Given_range_1
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); //  // create a Scanner class.
